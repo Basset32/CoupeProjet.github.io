@@ -68,7 +68,7 @@ h1{
     text-decoration: dotted;
 }
 .Contact:hover{
-    font-size: 33px;
+    font-size: 23px;
     opacity: 52%;
     transition: 0.3s ease;
 }
