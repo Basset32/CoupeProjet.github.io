@@ -19,7 +19,7 @@ h1{
 
 }
 .names{
-
+max-width:100%;
     max-width: 400px;
     display: inline-flex;
     align-items: center;
